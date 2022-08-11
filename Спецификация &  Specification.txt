@@ -1,0 +1,16 @@
+Веб-приложение "Learning Log"
+
+Веб-приложение Learning Log предназначено для ведения журнала. 
+Пользователь может вносить любую интересующую его информацию.
+Домашняя страиница содержит описание сайта и приглашает пользователя зарегистрироваться либо ввести свои учетные данные.
+После успешного входа пользователя получает возможность создавать новые темы, добавлять новые записи, читать и редактировать существующие записи.
+
+
+
+
+Web application "Learning Log"
+
+The web application "Learning Log" is designed for logging. 
+User can write any information of interest in the log.
+The home page must contain a description of the website and invite the user to register or enter their credentials.
+After a successful login, the user is able to create new topics, add new posts, read and edit existing posts.
